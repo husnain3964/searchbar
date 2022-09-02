@@ -1,0 +1,10 @@
+.search{
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    font-size: 30px;
+}
+.bar{
+    width: 100px;
+    height: 20px;
+    background-color:  rgb(230, 230, 230);
+}
